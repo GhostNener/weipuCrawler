@@ -40,9 +40,14 @@ namespace Helper
                     }
                     catch (Exception e)
                     {
-                        return 0;
+                        throw new Exception(e.Message);
+                    }
+                    finally
+                    {
+                        conn.Close();
                     }
                 }
+               
             }
         }
         /// <summary>
@@ -60,8 +65,19 @@ namespace Helper
                 {
                     cmd.CommandText = cmdText;
                     cmd.CommandTimeout = 60;
-                    cmd.Parameters.AddRange(parameters);
-                    return cmd.ExecuteScalar();
+                    cmd.Parameters.AddRange(parameters);                 
+                    try
+                    {
+                        return cmd.ExecuteScalar();
+                    }
+                    catch (Exception e)
+                    {
+                        throw new Exception(e.Message);
+                    }
+                    finally
+                    {
+                        conn.Close();
+                    }
                 }
             }
         }
@@ -86,6 +102,7 @@ namespace Helper
                     {
                         DataTable dt = new DataTable();
                         adapter.Fill(dt);
+                        conn.Close();
                         return dt;
                     }
                 }

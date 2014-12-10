@@ -1,0 +1,8 @@
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\bin\Release\libCrawler.exe.config
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\bin\Release\libCrawler.exe
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\bin\Release\libCrawler.pdb
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\obj\Release\libCrawler.Form1.resources
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\obj\Release\libCrawler.Properties.Resources.resources
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\obj\Release\libCrawler.csproj.GenerateResource.Cache
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\obj\Release\libCrawler.exe
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\obj\Release\libCrawler.pdb

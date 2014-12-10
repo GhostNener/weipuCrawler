@@ -6,3 +6,11 @@ C:\Users\NENER\documents\visual studio 2013\Projects\libCrawler\libCrawler\obj\D
 C:\Users\NENER\documents\visual studio 2013\Projects\libCrawler\libCrawler\obj\Debug\libCrawler.csproj.GenerateResource.Cache
 C:\Users\NENER\documents\visual studio 2013\Projects\libCrawler\libCrawler\obj\Debug\libCrawler.exe
 C:\Users\NENER\documents\visual studio 2013\Projects\libCrawler\libCrawler\obj\Debug\libCrawler.pdb
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\bin\Debug\libCrawler.exe.config
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\bin\Debug\libCrawler.exe
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\bin\Debug\libCrawler.pdb
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\obj\Debug\libCrawler.Form1.resources
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\obj\Debug\libCrawler.Properties.Resources.resources
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\obj\Debug\libCrawler.csproj.GenerateResource.Cache
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\obj\Debug\libCrawler.exe
+C:\Users\NENER\Documents\GitHub\weipuCrawler\libCrawler\obj\Debug\libCrawler.pdb
